@@ -112,7 +112,9 @@ project-root/
 ---
 ## Dataset:
 
-I have manually created the dataset "dataset.zip"
+I have manually created the dataset
+
+Link to dataset: https://drive.google.com/drive/folders/1fPf2rrXj1qtcPeXwjCJzy1MMykB1-E-f?usp=sharing
 
 its structure is as follows:
 
